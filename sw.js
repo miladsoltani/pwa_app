@@ -1,4 +1,4 @@
-const cacheVersion = 3;
+const cacheVersion = 1;
 const activeCaches = {
   static: `static-v${cacheVersion}`,
   dynamic: `dynamic-v${cacheVersion}`,
